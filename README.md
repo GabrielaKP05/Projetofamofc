@@ -5,15 +5,6 @@ Trabalho realizado por: Gabriela Padilha, Letícia Couto, Júlia Rangel e Eduard
 O objetivo proposto foi criar uma empresa ficticia que fosse possivel envolver nossa família junto. Todas nós trabalhamos na página principal e posteriormente cada um realizou a sua própria página homenageando a família nela.
 
 ---
-
-## Índice
-
-- [Tecnologias Utilizadas](#tecnologias-utilizadas)
-- [Contato](#contato)
-
-
----
-
 ## Tecnologias Utilizadas
 
 
@@ -23,11 +14,4 @@ O objetivo proposto foi criar uma empresa ficticia que fosse possivel envolver n
 - JavaScript
 
 ---
-
-
-## Contatos
-
-
-Nomes: [Gabriela Padilha, Letícia Couto, Júlia Rangel e Eduarda Souza]
-
 
